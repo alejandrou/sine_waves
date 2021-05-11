@@ -26,7 +26,7 @@ El trabajo se basa en hacer que parpadee el LED de arduino a mayor o menor frecu
 
 ## Referencias
 
-Para ayudarme en la realización de esta aplicación usé básicamente la API que te proporciona [Arduino](https://www.arduino.cc/reference/en/).
+Para ayudarnos en la realización de esta aplicación usamos la API que te proporciona [Arduino](https://www.arduino.cc/reference/en/).
 
 ## Herramientas
 
